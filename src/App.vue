@@ -4,6 +4,7 @@
     <h3>master的h3</h3>
     <h2>dev的h2</h2>
     <h3>dev的h3</h3>
+    <span>master的span</span>
     <router-view/>
   </div>
 </template>
