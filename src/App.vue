@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <h2>master的h2</h2>
+    <h3>master的h3</h3>
     <router-view/>
   </div>
 </template>
