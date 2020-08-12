@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <img src="./assets/logo.png">
+    <h2>dev的h2</h2>
     <router-view/>
   </div>
 </template>
