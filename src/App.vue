@@ -10,6 +10,7 @@
     <h3>dev的h3</h3>
     <div>绝改动</div>
     <div>第二个改动</div>
+    <div>再试一次</div>
     <router-view/>
   </div>
 </template>
