@@ -8,6 +8,7 @@
     <h3>master的h3</h3>
     <h2>dev的h2</h2>
     <h3>dev的h3</h3>
+    <div>10/12的修改</div>
     <span>dev的span</span>
     <router-view/>
   </div>
