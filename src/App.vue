@@ -11,6 +11,7 @@
     <div>绝改动</div>
     <div>第二个改动</div>
     <div>再试一次</div>
+    <div>我就是我</div>
     <router-view/>
   </div>
 </template>
